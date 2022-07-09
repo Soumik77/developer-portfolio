@@ -1,40 +1,62 @@
-            body {
-                font-family: 'Poppins', sans-serif;
-                margin: 0px;
-            }
-            
-            h1 {
-                font-size: 50px;
-            }
-            
-            .orange-color {
-                color: orange;
-            }
-            
-            section {
-                display: flex;
-            }
-            
-            .half-width {
-                width: 50%;
-                padding: 3%;
-            }
-            
-            .half-width img {
-                width: 80%;
-            }
-            
-            .hire-me {
-                text-decoration: none;
-                padding: 10px 40px;
-                color: white;
-                font-size: 16px;
-                border-radius: 5px;
-                background-image: linear-gradient(orange, tomato);
-                font-weight: 700px;
-            }
-            
-            .top-banner {
-                background-image: url(images/top-banner.png);
-                background-repeat: no-repeat;
-            }
+                        body {
+                            font-family: 'Poppins', sans-serif;
+                            margin: 0px;
+                        }
+                        
+                        h1 {
+                            font-size: 50px;
+                        }
+                        
+                        .orange-color {
+                            color: orange;
+                        }
+                        
+                        section {
+                            display: flex;
+                            margin-bottom: 150px;
+                        }
+                        
+                        .half-width {
+                            width: 50%;
+                            padding: 3%;
+                        }
+                        
+                        .half-width img {
+                            width: 80%;
+                        }
+                        
+                        .hire-me {
+                            text-decoration: none;
+                            padding: 10px 40px;
+                            color: white;
+                            font-size: 16px;
+                            border-radius: 5px;
+                            background-image: linear-gradient(orange, tomato);
+                            font-weight: 700px;
+                        }
+                        
+                        .top-banner {
+                            background-image: url(images/top-banner.png);
+                            background-repeat: no-repeat;
+                        }
+                        
+                        .dream-big {
+                            background-image: url(images/dream-bg.png);
+                            background-repeat: no-repeat;
+                            background-position: right;
+                        }
+                        
+                        .dream-big1 {
+                            text-decoration: none;
+                            background-image: linear-gradient(pink, red);
+                            color: white;
+                            padding: 14px 35px;
+                            border-radius: 5px;
+                            font-size: 16px;
+                            font-weight: 700px;
+                        }
+                        
+                        p {
+                            text-align: justify;
+                            margin-bottom: 2rem;
+                        }
